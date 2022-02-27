@@ -2,39 +2,59 @@
 THE 99 PERCENT
 CAUSE WE CREATE 1 PERCENT
 
+Idea-Developing a platform that would be helping The Business World in setting up the 
+bridge between the capable ones and in need 
+for their development and profit.
+
+
+Tech Stack used is
+
+.html
+
+.css
+
+Team details
+
+.Team Code: 246d635d7d
+
+.Team Name: tiny coders
+
+Description of Idea
+
+Idea-Developing a platform that would be helping The Business World in setting up the 
+bridge between the capable ones and in need 
+for their development and profit.
+
+
+Problem:
 
 As we all are noticing that with passing time, the urge of financial freedom among the people is rising globally. So, those with minimal paycheck are inclining towards Stock Market and people with average paycheck wants to pursue the freedom through Start-up, becoming an enterpreneur, which is a good thing.
+
 The start-ups emerging per year are more than a million, and 90% of them face failure in the early stages. 
 
 Discussion leading to conclusion, about why a start-up fail, below reasons come into light:-
-•	Weak Business Models
-•	Poor Planning
-•	Faulty customer insights or lack of original ideas 
-•	Break in Capital chain
-•	Lacking skills  or Handling single handed
-•	Incompetency in finding and reaching the agreement with the investors
-As for now, These reasons are the major issues for Start-up failure as well as for Entrepreneur who are steady and stable. 
 
-So, to the above stated issues we have designed a platform as  a solution of it.
+Weak Business Models
 
 
+Poor Planning
+
+
+Faulty customer insights or lack of original ideas 
+
+
+Break in Capital chain
+
+
+Lacking skills  or Handling single handed
+
+
+Incompetency in finding and reaching the agreement with the investors
+
+As for now, These reasons are the major issues for Start-up failure as well as for Entrepreneur who are steady and stable.   
+
+The community that is inclining towards Stock Market also suffer from losses as they lack experience and proper knowledge, so they need guidance and mentors to escape from the diring situations while investing.
+There are many young and successful investors who are capable for investing in Start-ups but they are not well-known like those who are like celebrity in this field, And the Capital Investment Firms play so safe while dealing with the Start-ups, if it make profit they would be having a huge percentage of profit but if they deal with losses then these firms not only disrupt the capital chain but also file lawsuit against it. 
 
 
 
-The 99 Percent
-Its not only a bridge between investors and entrepreneurs but will also help them to interact with each other, for better understanding beforehead from getting involved with each other.
-
-For Example :-
-1.	Mr. X wants to be a entrepreneur with the idea he’s having for A start-up but he lacks in skill.
-2.	Mr. Y also wants to be a entrepreneur, he’s very skilled but not having any unique idea.
-3.	Mr. E is a successful entrepreneur, but having some problem with capital chain for his company.
-4.	Mr. N is a young investor, he lacks experience in selection but wants to start investing in start-ups.
-5.	Mr. T is an experienced investor, he’s experienced and has invested in many successful start-ups.
-
-So, here on this platform Mr. X and Mr. Y can interact with each other to form a team(NAME:- R), and reach Mr. N for investment, as Mr. N has no experience in this field so he can seek advice from Mr. T, And both the investors can decide what to do(whether to invest or not).
-Team R is new in this field, so they canask Mr. E, to be their mentor.
-As Mr. E is having some issues concerning the Capital Supply  so he can contact Mr. T for Investing in his company.
-
-So in this way The business world can build a strong in it.
-It will also decrease the domination of the venture capital firm.
-It will also help in increasing the success rate of start-ups.
